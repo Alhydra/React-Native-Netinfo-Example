@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "React Native Netinfo Example",
+    "slug": "React-Native-Netinfo-Example",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "description": "Hello everyone, welcome to this new article, where we are going to explore the React Native Netinfo Api.That gets the current network data in realtime. Read The Full Article. https://reactnativemaster.com/react-native-netinfo-example/",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
